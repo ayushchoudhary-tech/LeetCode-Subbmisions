@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0283-move-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
