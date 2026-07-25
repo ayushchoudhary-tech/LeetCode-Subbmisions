@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0050-powx-n) |
 | [1025-divisor-game](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1025-divisor-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
