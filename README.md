@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1025-divisor-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3536-maximum-product-of-two-digits) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0283-move-zeroes) |
 ## Number Theory
 |  |
