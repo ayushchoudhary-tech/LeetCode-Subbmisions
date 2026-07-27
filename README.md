@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
