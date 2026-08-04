@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1207-unique-number-of-occurrences) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [1025-divisor-game](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1025-divisor-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -117,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
