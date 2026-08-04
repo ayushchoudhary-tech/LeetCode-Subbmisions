@@ -1,19 +1,15 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-    unordered_set<int> s;
+        int actualSum=0,expectedSum=0;
+        int n=nums.size();
     for( auto el:nums)
-    {  s.insert(el);
+    {  actualSum+=el;
 
     }
-    for(int i=0;i<=nums.size();i++)
-    {
-        if(s.find(i)==s.end())
-        {
-            return i;
-        }
-    }
-    return -1;
+    expectedSum=n*(n+1)/2;
+    int missing=expectedSum-actualSum;
+    return missing;
       
     }
 };
