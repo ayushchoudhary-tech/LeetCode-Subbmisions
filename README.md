@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0075-sort-colors/) | Medium |
