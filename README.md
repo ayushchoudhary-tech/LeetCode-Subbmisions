@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
