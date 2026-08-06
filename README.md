@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0204-count-primes/) | Medium |
