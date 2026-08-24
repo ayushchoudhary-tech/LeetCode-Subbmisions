@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0344-reverse-string/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0020-valid-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1929-concatenation-of-array) |
 ## Matrix
 | Problem Name | Difficulty |
