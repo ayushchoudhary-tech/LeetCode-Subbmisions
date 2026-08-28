@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0027-remove-element/) | Easy |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0509-fibonacci-number/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
