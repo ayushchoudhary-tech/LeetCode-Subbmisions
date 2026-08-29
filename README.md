@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0567-permutation-in-string/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
