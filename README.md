@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3536-maximum-product-of-two-digits) |
