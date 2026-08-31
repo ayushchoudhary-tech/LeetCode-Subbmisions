@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
