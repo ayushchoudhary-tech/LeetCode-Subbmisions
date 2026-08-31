@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0162-find-peak-element/) | Medium |
