@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3731-find-missing-elements](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
