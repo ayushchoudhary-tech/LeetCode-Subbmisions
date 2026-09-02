@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Array
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1207-unique-number-of-occurrences) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0567-permutation-in-string/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1207-unique-number-of-occurrences) |
@@ -272,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
