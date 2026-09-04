@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0509-fibonacci-number/) | Easy |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0125-valid-palindrome/) | Easy |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0503-next-greater-element-ii/) | Medium |
