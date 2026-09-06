@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
