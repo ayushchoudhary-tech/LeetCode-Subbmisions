@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
