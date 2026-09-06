@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0176-second-highest-salary/) | Medium |
+| [0196-delete-duplicate-emails](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0595-big-countries/) | Easy |
