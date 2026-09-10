@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0204-count-primes/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0567-permutation-in-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
