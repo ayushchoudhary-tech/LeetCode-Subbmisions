@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0014-longest-common-prefix/) | Easy |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0567-permutation-in-string/) | Medium |
 ## Memoization
