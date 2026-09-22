@@ -15,25 +15,43 @@ public:
 
         // }
         // return ans==INT_MIN?0:ans;
-      unordered_map<char,int>m;
-        int low=0; 
-        for(int high=0;high<n;high++)
-        { 
-          m[s[high]]++;
-          int k=high-low+1;
-          while(m.size()<k)
-          { m[s[low]]--;
-           if(m[s[low]]==0)
-           {
-               m.erase(s[low]);
-           } low++;
-           k=high-low+1;
+    //   unordered_map<char,int>m;
+    //     int low=0; 
+    //     for(int high=0;high<n;high++)
+    //     { 
+    //       m[s[high]]++;
+    //       int k=high-low+1;
+    //       while(m.size()<k)
+    //       { m[s[low]]--;
+    //        if(m[s[low]]==0)
+    //        {
+    //            m.erase(s[low]);
+    //        } low++;
+    //        k=high-low+1;
 
-           }
-            int length=high-low+1;
-            ans=max(length,ans);
+    //        }
+    //         int length=high-low+1;
+    //         ans=max(length,ans);
+
+    //     }
+        unordered_map<char,int>m; int low=0;
+        for(int high=0;high<n;high++)
+        { m[s[high]]++;
+           int k=high-low+1;
+           while(m.size()<k)
+           { m[s[low]]--;
+              if(m[s[low]]==0)
+              {
+                m.erase(s[low]);
+              }
+              low++;
+              k=high-low+1;
+
+           } int  length=high-low+1;
+           ans=max(ans,length);
 
         }
+
         return ans==INT_MIN?0:ans;
     }
 };
