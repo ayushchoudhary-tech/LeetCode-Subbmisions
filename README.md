@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0344-reverse-string/) | Easy |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
