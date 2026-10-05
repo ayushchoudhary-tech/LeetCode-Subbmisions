@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0509-fibonacci-number/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1025-divisor-game) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
