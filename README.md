@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
