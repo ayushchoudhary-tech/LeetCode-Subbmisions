@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1929-concatenation-of-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3731-find-missing-elements](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/3731-find-missing-elements/) | Easy |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
