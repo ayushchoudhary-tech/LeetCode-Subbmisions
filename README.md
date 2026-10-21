@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
