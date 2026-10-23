@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0074-search-a-2d-matrix/) | Medium |
