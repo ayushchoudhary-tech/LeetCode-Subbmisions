@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0986-interval-list-intersections/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
