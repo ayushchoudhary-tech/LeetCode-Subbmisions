@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0567-permutation-in-string/) | Medium |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Prefix Sum
