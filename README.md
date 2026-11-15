@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0739-daily-temperatures/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0986-interval-list-intersections/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
