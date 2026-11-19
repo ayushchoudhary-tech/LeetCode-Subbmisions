@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
@@ -435,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/ayushchoudhary-tech/LeetCode-Subbmisions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
